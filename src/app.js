@@ -35,3 +35,4 @@ console.log("</ul>")
 
 console.log(konutKredileri)
 
+//besiktaş..
